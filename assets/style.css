@@ -80,6 +80,11 @@ button{
   transform: translateY(2px);
 }
 
+.food{
+  width: 5em; 
+  border-radius: 10px;
+}
+
 .redes{
     width: 4em;
     margin-top: 10px;
