@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+a{
+  text-decoration: none;
+  color: #FFF;
+}
+
+body{
+  background: url('../assets/background.jpg') #000;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+button{
+  font-size: 1.5em;
+  width: 100%;  
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    margin: 15px auto;
+}
+
+.vertical{
+    flex-direction: column;
+}
+
+.horizontal{
+    justify-content: space-evenly;
+}
+
+.aButon{
+  width: 80%;
+  margin: 0.3em;
+  padding: 5px ;
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button-29 {
+  align-items: center;
+  appearance: none;
+  background-image: radial-gradient(100% 100% at 100% 0, #b17300 0, #fbb533 100%);
+  border: 0;
+  border-radius: 6px;
+  box-shadow: rgba(255, 168, 168, 0.4) 0 2px 4px,rgba(255, 255, 255, 0.3) 0 7px 13px -3px,rgba(254, 254, 254, 0.5) 0 -3px 0 inset;
+  box-sizing: border-box;
+  color: #fff;
+  cursor: pointer;
+  display: inline-flex;
+  height: 48px;
+  justify-content: center;
+  line-height: 1;
+  list-style: none;
+  overflow: hidden;
+  padding-left: 16px;
+  padding-right: 16px;
+  position: relative;
+  text-align: left;
+  text-decoration: none;
+  transition: box-shadow .15s,transform .15s;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  white-space: nowrap;
+  will-change: box-shadow,transform;
+  font-size: 18px;
+}
+
+.button-29:focus {
+  box-shadow: #e0d53c 0 0 0 1.5px inset, rgba(66, 66, 35, 0.4) 0 2px 4px, rgba(66, 63, 35, 0.3) 0 7px 13px -3px, #dde03c 0 -3px 0 inset;
+}
+
+.button-29:hover {
+  box-shadow: rgba(66, 58, 35, 0.4) 0 4px 8px, rgba(45, 35, 66, .3) 0 7px 13px -3px,rgb(224, 221, 60)0 0 -3px 0 inset;
+  transform: translateY(-2px);
+}
+
+.button-29:active {
+  box-shadow: #e03c3c 0 3px 7px inset;
+  transform: translateY(2px);
+}
+
+.food{
+  width: 5em; 
+  border-radius: 10px;
+}
+
+.redes{
+    width: 4em;
+    margin-top: 10px;
+}
+
+.vacio{
+  min-height: 800px;
+}
+
+.fondoOpaco{
+  background: rgba(0, 0, 0, 0.692);
+
+}
+
+#logo{
+    width: 100%;   
+}
+
+#navegacion{
+  display: flex;
+  justify-content: space-around;
+}
+
+#navegacion > *{
+  width: 40%;
+}
