@@ -1,34 +1,44 @@
 Entradas:
 
-¿cuantas # chalupas rojas, verdes, combinadas?
+¿cuantas 4 chalupas rojas, verdes, combinadas?
 
-Perfecto para acompañar con: ...
+Perfecto para acompañar con: frijoles refritos y guacamole
 
-Chistorra , ...
+Chistorra a la plancha salpimentada, guacamole 
 
-Crujientes tostadas de pollo¿cuantas?
+Crujientes tostadas de pollo¿cuantas? 3
 
-Preparación: asadas con mantequilla
+Preparación: asadas con  especias y mantequilla
 
 Excelente entrada para acompañar, sazonadas con sal, pimienta, paprika
 
 ---------------------------------------------------------------
 Pastas
-tipos de pasta
 
 diferencias
 
 ---------------------------------------------------------------
 Ensaladas
-Aderezos?
+Aderezos? sin costo extra mayonesa,vinagreta,no ranch
 ---------------------------------------------------------------
 Caldos
 ¿Que tiene cada caldo?
+jugo de carne, jugo de caldo preparado con magi,inglesa
+consome de pollo queso manchego aguacate, pollo
+sopa poblana queso,rajas,chile poblano y grano de elote
+sopa de sesos tiene sesos cebollas y chiles y limon.
+camarones, cebolla chile cilantro y limon.
+""
 ---------------------------------------------------------------
 Parrilladas
-¿Que tiene la parrillada de cortes argentinos?
-¿Que tiene la parrillada de cortes arrachera?
-¿Que tiene la parrillada de cortes filete?
+¿Que tiene la parrillada de cortes americanos? cortes ribeye,sirloin,newyork,ribsteak
+¿Que tiene la parrillada de cortes arrachera? 
+¿Que tiene la parrillada de cortes filete? filete y guarnicion.
 ---------------------------------------------------------------
 Cortes
 Revisar *
+se puede cambiar guarnicion
+filete: pimiento,cebolla, tocino
+tampiqueña filete de res
+jirafa: quesogratinado
+puntas de filete: jitomate cebolla,chiles
